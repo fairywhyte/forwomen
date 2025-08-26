@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forwomen.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ae68c1a855f751474977631a0e554f29e2532f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forwomen.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forwomen.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
