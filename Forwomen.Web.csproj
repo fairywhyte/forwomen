@@ -8,4 +8,7 @@
     <PackageReference Include="kentico.xperience.imageprocessing" Version="30.9.0" />
     <PackageReference Include="kentico.xperience.webapp" Version="30.9.0" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Forwomen.Entities\Forwomen.Entities.csproj" />
+  </ItemGroup>
 </Project>

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v8.0": {
       "Forwomen.Web/1.0.0": {
         "dependencies": {
+          "Forwomen.Entities": "1.0.0",
           "Kentico.Xperience.Admin": "30.9.0",
           "Kentico.Xperience.AzureStorage": "30.9.0",
           "Kentico.Xperience.ImageProcessing": "30.9.0",
@@ -1847,6 +1848,17 @@
             "fileVersion": "2.200.24.42901"
           }
         }
+      },
+      "Forwomen.Entities/1.0.0": {
+        "dependencies": {
+          "Kentico.Xperience.Core": "30.9.0"
+        },
+        "runtime": {
+          "Forwomen.Entities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -2821,6 +2833,11 @@
       "sha512": "sha512-t16Z+OplJEElJy1Q6t12EwMGF2BeLw8IKjD1ema7ewbCRaMqeVIRPZo3MlxidnRFRK+tV6II8tKYX+7N5ZS98A==",
       "path": "yarp.reverseproxy/2.2.0",
       "hashPath": "yarp.reverseproxy.2.2.0.nupkg.sha512"
+    },
+    "Forwomen.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

@@ -2871,6 +2871,19 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "Forwomen.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Kentico.Xperience.Core": "30.9.0"
+        },
+        "compile": {
+          "bin/placeholder/Forwomen.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Forwomen.Entities.dll": {}
+        }
       }
     }
   },
@@ -6430,10 +6443,16 @@
         "yarp.reverseproxy.2.2.0.nupkg.sha512",
         "yarp.reverseproxy.nuspec"
       ]
+    },
+    "Forwomen.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Forwomen.Entities/Forwomen.Entities.csproj",
+      "msbuildProject": "../Forwomen.Entities/Forwomen.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Forwomen.Entities >= 1.0.0",
       "kentico.xperience.admin >= 30.9.0",
       "kentico.xperience.azurestorage >= 30.9.0",
       "kentico.xperience.imageprocessing >= 30.9.0",
@@ -6464,7 +6483,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Forwomen.Entities\\Forwomen.Entities.csproj": {
+              "projectPath": "C:\\Users\\FadzilahWhyte\\KenticoCMS\\TestCMS\\src\\Forwomen.Entities\\Forwomen.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

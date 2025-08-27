@@ -234,3 +234,6 @@ C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.Web\obj\Debug\net8.0\refi
 C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.Web\obj\Debug\net8.0\Forwomen.Web.pdb
 C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.Web\obj\Debug\net8.0\Forwomen.Web.genruntimeconfig.cache
 C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.Web\obj\Debug\net8.0\ref\Forwomen.Web.dll
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.web\bin\Debug\net8.0\Forwomen.Entities.dll
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.web\bin\Debug\net8.0\Forwomen.Entities.pdb
+C:\Users\FadzilahWhyte\KenticoCMS\TestCMS\src\Forwomen.web\obj\Debug\net8.0\Forwomen.Web.sourcelink.json
